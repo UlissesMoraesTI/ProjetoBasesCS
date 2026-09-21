@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\bin\Debug\net10.0\AulaArquivos.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\bin\Debug\net10.0\AulaArquivos.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\bin\Debug\net10.0\AulaArquivos.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\bin\Debug\net10.0\AulaArquivos.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\bin\Debug\net10.0\AulaArquivos.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\refint\AulaArquivos.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\AulaArquivos.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArquivos\obj\Debug\net10.0\ref\AulaArquivos.dll

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\bin\Debug\net10.0\AulaPolimorfismo.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\bin\Debug\net10.0\AulaPolimorfismo.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\bin\Debug\net10.0\AulaPolimorfismo.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\bin\Debug\net10.0\AulaPolimorfismo.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\bin\Debug\net10.0\AulaPolimorfismo.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\refint\AulaPolimorfismo.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\AulaPolimorfismo.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPolimorfismo\obj\Debug\net10.0\ref\AulaPolimorfismo.dll

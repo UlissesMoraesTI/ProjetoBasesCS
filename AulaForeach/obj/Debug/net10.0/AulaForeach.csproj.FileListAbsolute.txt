@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\bin\Debug\net10.0\AulaForeach.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\bin\Debug\net10.0\AulaForeach.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\bin\Debug\net10.0\AulaForeach.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\bin\Debug\net10.0\AulaForeach.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\bin\Debug\net10.0\AulaForeach.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\refint\AulaForeach.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\AulaForeach.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaForeach\obj\Debug\net10.0\ref\AulaForeach.dll

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\bin\Debug\net10.0\AulaArrays.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\bin\Debug\net10.0\AulaArrays.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\bin\Debug\net10.0\AulaArrays.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\bin\Debug\net10.0\AulaArrays.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\bin\Debug\net10.0\AulaArrays.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\refint\AulaArrays.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\AulaArrays.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaArrays\obj\Debug\net10.0\ref\AulaArrays.dll

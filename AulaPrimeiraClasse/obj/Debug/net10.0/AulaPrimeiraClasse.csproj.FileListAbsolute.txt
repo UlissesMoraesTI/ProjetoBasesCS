@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\bin\Debug\net10.0\AulaPrimeiraClasse.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\bin\Debug\net10.0\AulaPrimeiraClasse.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\bin\Debug\net10.0\AulaPrimeiraClasse.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\bin\Debug\net10.0\AulaPrimeiraClasse.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\bin\Debug\net10.0\AulaPrimeiraClasse.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\refint\AulaPrimeiraClasse.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\AulaPrimeiraClasse.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPrimeiraClasse\obj\Debug\net10.0\ref\AulaPrimeiraClasse.dll

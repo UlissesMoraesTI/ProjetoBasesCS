@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\bin\Debug\net10.0\AulaListas.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\bin\Debug\net10.0\AulaListas.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\bin\Debug\net10.0\AulaListas.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\bin\Debug\net10.0\AulaListas.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\bin\Debug\net10.0\AulaListas.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\refint\AulaListas.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\AulaListas.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaListas\obj\Debug\net10.0\ref\AulaListas.dll

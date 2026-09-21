@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\bin\Debug\net10.0\AulaAbstracaoInterfaces.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\bin\Debug\net10.0\AulaAbstracaoInterfaces.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\bin\Debug\net10.0\AulaAbstracaoInterfaces.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\bin\Debug\net10.0\AulaAbstracaoInterfaces.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\bin\Debug\net10.0\AulaAbstracaoInterfaces.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\refint\AulaAbstracaoInterfaces.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\AulaAbstracaoInterfaces.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoInterfaces\obj\Debug\net10.0\ref\AulaAbstracaoInterfaces.dll

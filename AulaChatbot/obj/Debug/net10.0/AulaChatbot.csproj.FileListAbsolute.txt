@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\bin\Debug\net10.0\AulaChatbot.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\bin\Debug\net10.0\AulaChatbot.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\bin\Debug\net10.0\AulaChatbot.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\bin\Debug\net10.0\AulaChatbot.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\bin\Debug\net10.0\AulaChatbot.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\refint\AulaChatbot.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\AulaChatbot.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaChatbot\obj\Debug\net10.0\ref\AulaChatbot.dll

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\bin\Debug\net10.0\AulaHeranca.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\bin\Debug\net10.0\AulaHeranca.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\bin\Debug\net10.0\AulaHeranca.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\bin\Debug\net10.0\AulaHeranca.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\bin\Debug\net10.0\AulaHeranca.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\refint\AulaHeranca.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\AulaHeranca.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaHeranca\obj\Debug\net10.0\ref\AulaHeranca.dll

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\bin\Debug\net10.0\AulaMetodosSimples.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\bin\Debug\net10.0\AulaMetodosSimples.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\bin\Debug\net10.0\AulaMetodosSimples.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\bin\Debug\net10.0\AulaMetodosSimples.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\bin\Debug\net10.0\AulaMetodosSimples.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\refint\AulaMetodosSimples.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\AulaMetodosSimples.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosSimples\obj\Debug\net10.0\ref\AulaMetodosSimples.dll

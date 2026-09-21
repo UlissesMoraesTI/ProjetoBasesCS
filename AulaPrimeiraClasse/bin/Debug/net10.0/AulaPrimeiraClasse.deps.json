@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AulaPrimeiraClasse/1.0.0": {
+        "runtime": {
+          "AulaPrimeiraClasse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaPrimeiraClasse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\bin\Debug\net10.0\AulaDoWhile.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\bin\Debug\net10.0\AulaDoWhile.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\bin\Debug\net10.0\AulaDoWhile.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\bin\Debug\net10.0\AulaDoWhile.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\bin\Debug\net10.0\AulaDoWhile.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\refint\AulaDoWhile.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\AulaDoWhile.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaDoWhile\obj\Debug\net10.0\ref\AulaDoWhile.dll

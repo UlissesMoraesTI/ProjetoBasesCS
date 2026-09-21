@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\bin\Debug\net10.0\AulaMetodosParametros.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\bin\Debug\net10.0\AulaMetodosParametros.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\bin\Debug\net10.0\AulaMetodosParametros.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\bin\Debug\net10.0\AulaMetodosParametros.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\bin\Debug\net10.0\AulaMetodosParametros.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\refint\AulaMetodosParametros.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\AulaMetodosParametros.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosParametros\obj\Debug\net10.0\ref\AulaMetodosParametros.dll

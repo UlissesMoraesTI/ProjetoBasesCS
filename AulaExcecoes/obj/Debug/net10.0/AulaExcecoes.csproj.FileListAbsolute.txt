@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\bin\Debug\net10.0\AulaExcecoes.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\bin\Debug\net10.0\AulaExcecoes.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\bin\Debug\net10.0\AulaExcecoes.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\bin\Debug\net10.0\AulaExcecoes.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\bin\Debug\net10.0\AulaExcecoes.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\refint\AulaExcecoes.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\AulaExcecoes.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaExcecoes\obj\Debug\net10.0\ref\AulaExcecoes.dll

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\bin\Debug\net10.0\AulaPropriedades.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\bin\Debug\net10.0\AulaPropriedades.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\bin\Debug\net10.0\AulaPropriedades.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\bin\Debug\net10.0\AulaPropriedades.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\bin\Debug\net10.0\AulaPropriedades.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\refint\AulaPropriedades.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\AulaPropriedades.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaPropriedades\obj\Debug\net10.0\ref\AulaPropriedades.dll

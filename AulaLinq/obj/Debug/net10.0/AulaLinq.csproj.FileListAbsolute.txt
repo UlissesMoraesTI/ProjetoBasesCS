@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\bin\Debug\net10.0\AulaLinq.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\bin\Debug\net10.0\AulaLinq.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\bin\Debug\net10.0\AulaLinq.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\bin\Debug\net10.0\AulaLinq.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\bin\Debug\net10.0\AulaLinq.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\refint\AulaLinq.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\AulaLinq.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaLinq\obj\Debug\net10.0\ref\AulaLinq.dll

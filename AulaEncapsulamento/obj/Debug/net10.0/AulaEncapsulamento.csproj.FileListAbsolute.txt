@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\bin\Debug\net10.0\AulaEncapsulamento.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\bin\Debug\net10.0\AulaEncapsulamento.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\bin\Debug\net10.0\AulaEncapsulamento.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\bin\Debug\net10.0\AulaEncapsulamento.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\bin\Debug\net10.0\AulaEncapsulamento.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\refint\AulaEncapsulamento.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\AulaEncapsulamento.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaEncapsulamento\obj\Debug\net10.0\ref\AulaEncapsulamento.dll

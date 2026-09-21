@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\bin\Debug\net10.0\AulaVar.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\bin\Debug\net10.0\AulaVar.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\bin\Debug\net10.0\AulaVar.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\bin\Debug\net10.0\AulaVar.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\bin\Debug\net10.0\AulaVar.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\refint\AulaVar.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\AulaVar.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaVar\obj\Debug\net10.0\ref\AulaVar.dll

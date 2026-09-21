@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AulaMetodosSimples/1.0.0": {
+        "runtime": {
+          "AulaMetodosSimples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AulaMetodosSimples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

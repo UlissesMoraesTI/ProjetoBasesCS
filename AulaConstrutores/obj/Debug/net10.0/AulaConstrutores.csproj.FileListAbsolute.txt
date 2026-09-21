@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\bin\Debug\net10.0\AulaConstrutores.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\bin\Debug\net10.0\AulaConstrutores.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\bin\Debug\net10.0\AulaConstrutores.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\bin\Debug\net10.0\AulaConstrutores.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\bin\Debug\net10.0\AulaConstrutores.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\refint\AulaConstrutores.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\AulaConstrutores.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaConstrutores\obj\Debug\net10.0\ref\AulaConstrutores.dll

@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\bin\Debug\net10.0\AulaAsync.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\bin\Debug\net10.0\AulaAsync.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\bin\Debug\net10.0\AulaAsync.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\bin\Debug\net10.0\AulaAsync.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\bin\Debug\net10.0\AulaAsync.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\refint\AulaAsync.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\AulaAsync.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAsync\obj\Debug\net10.0\ref\AulaAsync.dll

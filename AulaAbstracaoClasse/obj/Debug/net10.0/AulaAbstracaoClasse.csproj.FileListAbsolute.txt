@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\bin\Debug\net10.0\AulaAbstracaoClasse.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\bin\Debug\net10.0\AulaAbstracaoClasse.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\bin\Debug\net10.0\AulaAbstracaoClasse.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\bin\Debug\net10.0\AulaAbstracaoClasse.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\bin\Debug\net10.0\AulaAbstracaoClasse.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\refint\AulaAbstracaoClasse.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\AulaAbstracaoClasse.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaAbstracaoClasse\obj\Debug\net10.0\ref\AulaAbstracaoClasse.dll

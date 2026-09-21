@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\bin\Debug\net10.0\AulaSobrecarga.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\bin\Debug\net10.0\AulaSobrecarga.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\bin\Debug\net10.0\AulaSobrecarga.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\bin\Debug\net10.0\AulaSobrecarga.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\bin\Debug\net10.0\AulaSobrecarga.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\refint\AulaSobrecarga.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\AulaSobrecarga.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaSobrecarga\obj\Debug\net10.0\ref\AulaSobrecarga.dll

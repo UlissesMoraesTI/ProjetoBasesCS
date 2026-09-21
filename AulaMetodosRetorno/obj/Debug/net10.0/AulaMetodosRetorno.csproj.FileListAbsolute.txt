@@ -1,0 +1,15 @@
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\bin\Debug\net10.0\AulaMetodosRetorno.exe
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\bin\Debug\net10.0\AulaMetodosRetorno.deps.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\bin\Debug\net10.0\AulaMetodosRetorno.runtimeconfig.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\bin\Debug\net10.0\AulaMetodosRetorno.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\bin\Debug\net10.0\AulaMetodosRetorno.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.AssemblyInfoInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.AssemblyInfo.cs
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.csproj.CoreCompileInputs.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.sourcelink.json
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\refint\AulaMetodosRetorno.dll
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.pdb
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\AulaMetodosRetorno.genruntimeconfig.cache
+C:\Users\uliss\Documents\git\ProjetoCS\AulaMetodosRetorno\obj\Debug\net10.0\ref\AulaMetodosRetorno.dll
