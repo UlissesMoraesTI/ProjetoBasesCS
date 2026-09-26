@@ -1,5 +1,8 @@
 # .NET - Treinamento na Linguagem Csharp - Console
 Projeto .NET
+- Sintaxe da Linguagem .NET
+- Conceitos Básicos
+- POO - Programação a Orientação de Objetos 
 
 <h1>   
      <img align="center" width="40px">
