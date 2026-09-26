@@ -1,5 +1,5 @@
 # .NET - Treinamento na Linguagem Csharp - Console
-Projeto Consele .NET
+Projeto Console .NET
 - Sintaxe da Linguagem .NET
 - Conceitos Básicos
 - LINQ - Language Integrated Query 
